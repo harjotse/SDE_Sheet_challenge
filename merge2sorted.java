@@ -16,7 +16,7 @@ class Solution {
           }
       }
       // now by the time any one will get exhausted we need to traverse other 
-      // for i
+      // for i....
       while(i<m){
         list.add(nums1[i]);
         i++;
