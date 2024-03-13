@@ -18,7 +18,7 @@ class Solution {
 
 // binary search approach 
 // sumeet sir sde sheet leetcode patterns 
-//amazon fb ms adobe apple o
+//amazon fb ms adobe apple 
 
 
 
