@@ -15,7 +15,7 @@ class Solution {
           j++;
           }
       }
-      // now by the time any one will get exhausted we need to traverse other 
+      // now by the time any one will get exhausted we need to traverse other ...
       // for i....
       while(i<m){
         list.add(nums1[i]);
