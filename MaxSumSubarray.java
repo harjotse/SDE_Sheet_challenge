@@ -25,3 +25,4 @@ class Solution {
 // simple
 
 // now the point is where u also have the subarray that the question
+//
